@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232594799786",
+    "project_id": "ocean-38e0a",
+    "storage_bucket": "ocean-38e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232594799786:android:cf93c2fcc006e95ac6e4d3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75gm8G9ElMQVsX4dmJQqVIouYDMrK6BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
